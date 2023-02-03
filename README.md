@@ -6,7 +6,6 @@ This is provided as-is, YMMV, use at your own risk etc. It's simply a copy of th
 
 ## How to use
 
-```
 1. quit VSCode
 2. clone this repo
 3. open a terminal in the cloned dir and run
