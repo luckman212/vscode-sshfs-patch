@@ -1,6 +1,8 @@
 ## vscode-sshfs-patch
 
-This is a patch for an [as-of-now abandoned issue #341][3] that's affecting some users of the [VSCode SSHFS extension][1]. Hopefully the project will be revived, but until then this should fix the issue.
+This was a patch for a [issue #341][3] that was affecting some users of the [VSCode SSHFS extension][1]. Up until [v1.2.6](https://github.com/SchoofsKelvin/vscode-sshfs/releases/tag/v1.26.0) this patch was needed to fix the issue.
+
+**Now that v1.2.6 has been released, this patch is not needed anymore and should not be used!**
 
 This is provided as-is, YMMV, use at your own risk etc. It's simply a copy of the diff'ed files that were previously made available by the developer in a [one-off CI build][2] (that run is no longer available on GitHub).
 
